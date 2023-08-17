@@ -34,9 +34,29 @@ header {
   h4 {
     font-family: arial;
     position: relative;
-    top: -5px;
+    top: 7px;
+    margin-right: 11px;
     color: #999;
-    margin-bottom: 12px;
     display: inline-flex;
+  }
+
+  #info {
+    display: inline-flex;
+  }
+
+  #registration {
+    display: inline-block;
+  }
+
+  .links {
+    position: relative;
+    top: -6px;
+    font-family: arial;
+    color: #999;
+    margin-top: 23px;
+    margin-bottom: 0;
+    padding-right: 5px;
+    display: inline-flex;
+    text-decoration: none;
   }
 }
