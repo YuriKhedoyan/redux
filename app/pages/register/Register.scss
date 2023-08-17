@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background: white;
+}
+
+#submitButton {
+  margin-top: 3px;
+  background: green;
+  border-radius: 3px;
+  width: 100px;
+}
+
+#resetButton {
+  border-radius: 3px;
+  margin-left: 5px;
+  background: #cc0000;
+  width: 100px;
+}
+
+.form {
+  padding-top: 24%;
+
+  input {
+    width: 320px;
+  }
+}

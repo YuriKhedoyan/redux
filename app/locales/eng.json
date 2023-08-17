@@ -1,0 +1,51 @@
+{
+  "welcome": "Welcome to Khedoyans Guesthouse",
+  "light": "Light",
+  "dark": "Dark",
+  "about": "The Khedoyans Guesthouse will have been launched by the end of 2023.The hotel is located in the very heart of Dilijan on thehighway to Haghartsin Monastery.Khedoyans Guesthouse offers high-end facilities for unforgettable leisure andbusiness trips. For travelers appreciating the beauty ofnature Khedoyans Guesthouse is the perfectdestination for an unforgettable vacation. Being surrounded inthe greenest nature of Armenia your needs for comfort and arelaxing stay will meet all your expectations in one place.",
+  "roomsInformation": {
+    "countOfRooms": "14 Rooms",
+    "categories": "4 room categories",
+    "standardRoom": {
+      "price": "From 54.000 ֏",
+      "category": "Standard Room"
+    },
+    "deluxe": {
+      "price": "From 59.000 ֏",
+      "category": "Deluxe Room"
+    },
+    "deluxeSuperior": {
+      "price": "From 64.000 ֏",
+      "category": "Deluxe Superior"
+    },
+    "duplex": {
+      "price": "From 66.000 ֏",
+      "category": "Duplex Room"
+    }
+  },
+  "restaurantInformation": {
+    "breakfast": "Breakfast",
+    "aboutBreakfast": "Breakfast is considered the most important meal of the day, therefor our restaurant offers a full buffet breakfast of special Armenian dishes alongside with international foods. Ingredients are sourced fresh and local, dairy products such as cheeses, yogurts, milks, and creams. We also have a variety of local jams, pastries, fruits and a wide selection of hot dishes with freshly-squeezed juices, with a last touch of coffee and tea.",
+    "dinner": "Dinner",
+    "aboutDinner": "Dinner at Khedoyans Guesthouse Hotel is the most expected time of the day. With our talented Chef and all the varieties of international dishes, we offer the best Cuisine within the region. The restaurant is also fulfilled with wide range of wines, to everyones taste. While guests relax and enjoy their glass of wine and dinner in the coziest atmosphere, the evening is lead with Jazz music played live by different famous performers. Khedoyans Guesthouse`s Restaurant features both indoor and outdoor dining. Our restaurant is open for all guests travelling within Khedoyans Guesthouse."
+  },
+  "informationAboutHouse": {
+    "place": "Andranik 4 st",
+    "phoneNumber": "+374 12 34-56-78",
+    "email": "khedoyans@gmail.com"
+  },
+  "links": {
+    "home": "KHEDOYANS GUESTHOUSE",
+    "mainPage": "HOME",
+    "restaurant": "RESTAURANT",
+    "gallery": "GALLERY",
+    "contactUs": "CONTACT US",
+    "rooms": "ROOMS"
+  },
+  "otherInformation": {
+    "welcome1": "In the heart of Dilijan, a picturesque jewel in the crown of Armenia's natural wonders, lies the captivating Khedoyan's Guesthouse. If you seek an unforgettable escape from the chaos of everyday life, our haven of tranquility and hospitality invites you to embark on an enriching journey.",
+    "welcome2": "Step into a world where time seems to slow down, and worries fade away amidst the soothing embrace of nature. Khedoyan's Guesthouse is strategically situated to offer breathtaking views of Mount Apakeqar, a majestic peak that stands tall, its storied history etched into its very stones. As the sun sets, the soft hues of twilight cast a magical glow upon Mount Apakeqar, offering a sight that's both awe-inspiring and humbling. Whether you choose to marvel at it from afar or embark on an up-close exploration, Mount Apakeqar promises an unforgettable experience.Our charming accommodations are thoughtfully designed to cater to various preferences, ranging from intimate rooms for a cozy getaway to spacious suites with panoramic vistas. Each space exudes a warm ambiance, complemented by plush bedding and modern amenities that promise a restful night's sleep.",
+    "welcome4": "At Khedoyan's Guesthouse, we believe in hospitality that goes beyond the ordinary. Our attentive staff takes pride in creating a welcoming atmosphere, ensuring that your every need is met with a smile. Whether you desire insider tips on local attractions or a bespoke dining experience, we are dedicated to making your stay truly exceptional.Indulge your senses with delectable cuisine that showcases the finest local flavors, handcrafted with passion and served with care. Our culinary delights are a testament to the richness of Dilijan's culture, bringing you closer to the heart of this enchanting destination.",
+    "welcome3": "Whether you are a solo traveler seeking introspection, a couple celebrating love, or a family making cherished memories, Khedoyan's Guesthouse welcomes you with open arms. Escape to a place where time stands still, where nature's beauty and warm hospitality intertwine to create an unforgettable experience. We eagerly await the opportunity to be your host and create moments that will last a lifetime.Come and discover the magic of Khedoyan's Guesthouse, where tranquility and hospitality unite in perfect harmony, providing a haven that feels like a home away from home. Book your stay with us today and embark on a journey of rejuvenation and wonder."
+  }
+}
