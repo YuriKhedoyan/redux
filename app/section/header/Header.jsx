@@ -15,11 +15,11 @@ const Header = () => {
 					<Grid container spacing={2}>
 						<Grid item xs={7}>
 							<div className="linksDiv">
-								<h2>HYPERPC</h2>
-								<h3>Home</h3>
-								<h3>About</h3>
-								<h3>Contacts</h3>
-								<h3>Models</h3>
+								<Link to="/" className="links"><h2>HYPERPC</h2></Link>
+								<Link to="/" className="links"><h3>Home</h3></Link>
+								<Link to="/" className="links"><h3>About</h3></Link>
+								<Link to="/" className="links"><h3>Contacts</h3></Link>
+								<Link to="/" className="links"><h3>Models</h3></Link>
 							</div>
 						</Grid>
 						<Grid item xs={5}>

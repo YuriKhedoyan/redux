@@ -15,8 +15,7 @@ import images from "../../locales/images.js";
 
 import "./Main.scss"
 
-
-export default function Home() {
+export default function Main() {
   const [index, setIndex] = useState(1);
   const { hyperPCCsGo, pc, services } = images;
 
